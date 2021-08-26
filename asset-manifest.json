@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tailwind_css_reat/static/css/main.8dae755f.chunk.css",
+    "main.js": "/Tailwind_css_reat/static/js/main.68ffa8ea.chunk.js",
+    "main.js.map": "/Tailwind_css_reat/static/js/main.68ffa8ea.chunk.js.map",
+    "runtime-main.js": "/Tailwind_css_reat/static/js/runtime-main.6b445550.js",
+    "runtime-main.js.map": "/Tailwind_css_reat/static/js/runtime-main.6b445550.js.map",
+    "static/js/2.8612026a.chunk.js": "/Tailwind_css_reat/static/js/2.8612026a.chunk.js",
+    "static/js/2.8612026a.chunk.js.map": "/Tailwind_css_reat/static/js/2.8612026a.chunk.js.map",
+    "index.html": "/Tailwind_css_reat/index.html",
+    "static/css/main.8dae755f.chunk.css.map": "/Tailwind_css_reat/static/css/main.8dae755f.chunk.css.map",
+    "static/js/2.8612026a.chunk.js.LICENSE.txt": "/Tailwind_css_reat/static/js/2.8612026a.chunk.js.LICENSE.txt",
+    "static/media/2.48050727.jpg": "/Tailwind_css_reat/static/media/2.48050727.jpg",
+    "static/media/4.7e5dcfe9.jpg": "/Tailwind_css_reat/static/media/4.7e5dcfe9.jpg",
+    "static/media/favicon.4fe75d5f.ico": "/Tailwind_css_reat/static/media/favicon.4fe75d5f.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b445550.js",
+    "static/js/2.8612026a.chunk.js",
+    "static/css/main.8dae755f.chunk.css",
+    "static/js/main.68ffa8ea.chunk.js"
+  ]
+}
